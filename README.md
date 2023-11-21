@@ -1,5 +1,5 @@
 # articles_app
 
-admin
+admin\n
 pass
 
